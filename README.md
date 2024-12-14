@@ -22,8 +22,8 @@
 <h3>🌐 Digital Footprints</h3>
 <p style="margin-top:30px">
   <a href="https://github.com/Xolo978" style="margin-top:30px"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prithvi-raj-banik-451a62319/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://your-portfolio-url](https://devfolio.co/@Xolo_)"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prithvi-raj-banik-451a62319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://devfolio.co/@Xolo_"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 </div>
 
