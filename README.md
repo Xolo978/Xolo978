@@ -33,9 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolo978&layout=compact&theme=radical&hide=css,html" alt="Top Languages" />
 </p>
 <p style="margin-top:60px">
-  <img src="https://github-readme-streak-stats-nqwl5mn2h.vercel.app/demo/?user=Xolo978&theme=radical&fire=orange&ring=red&animation=pulse" alt="GitHub Streak" />
-</p>
-<p style="margin-top:60px">
   <img src="https://github-readme-stats.vercel.app/api?username=Xolo978&show_icons=true&theme=radical&count_private=true&include_all_commits=true&animation=zoom-in" alt="GitHub Stats" />
 </p>
 </div>
